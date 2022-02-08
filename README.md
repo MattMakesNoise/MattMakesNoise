@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattMakesNoise
 - 👀 I’m interested in ... making things
-- 🌱 I’m currently learning ... Javascript and PHP
+- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on ... fun projects that I'll learn something from
 - 📫 How to reach me ... https://twitter.com/Me_Write_Code
 
