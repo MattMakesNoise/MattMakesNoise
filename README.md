@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattMakesNoise
-- 🌱 I’m currently learning ... Laravel and Vue
+- 🌱 I’m currently learning ... Symfony and Vue
 - 📫 How to reach me ... through here if that's possible?
 
 <!---
